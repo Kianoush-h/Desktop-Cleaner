@@ -1,11 +1,9 @@
 # Python Automation: Automatic Desktop Cleanup 
-This project will orgonize your dektop files (any path in your system) by its type, date, and name. The code starts to observe the specified path in your system. Whenever the user makes a change in that path, the code checks the changes and moves the added file to another directory and you get a desktop notification for it.
+This project will organize your desktop files (any path in your system) by its type, date, and name. The code starts to observe the specified path in your system. Whenever the user makes a change in that path, the code checks the changes and moves the added file to another directory, and you get desktop notification for it.
 
-The code consists of two main paths, 'Watch Path' and 'Destination Path'. These two paths can be anywhere in your system or in your server.
-The code observes the 'Watch Path' folder and moves the files to the 'Destination Path'. All the files that are moved to the 'Destination Path' will be in a specific folder based on their type, like doc, media, and etc.
+The code consists of two main paths, 'Watch Path' and 'Destination Path.' These two paths can be anywhere in your system or in your server. The code observes the 'Watch Path' folder and moves the files to the 'Destination Path.' All the files that are moved to the 'Destination Path' will be in a specific folder based on their types, like doc, media, and etc.
 
-Furthermore, another feature of this project is that the code checks the file and if it exits in the 'Destination Path' the code renames the file and then moves it. This feature prevents the overwriting.
-
+Furthermore, another feature of this project is that the code checks the file, and if it exists in the 'Destination Path,' the code renames the file and then moves it. This feature prevents the overwriting.
 
 
 ![dektop](./etc/example.gif)
