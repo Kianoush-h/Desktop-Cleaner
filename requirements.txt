@@ -1,0 +1,4 @@
+watchdog
+win10toast
+pathlib
+shutil
