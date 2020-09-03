@@ -150,3 +150,16 @@ extension_paths = {
  
  # Future 
  You can modify this project to obseve any folder anywhere in your system. Also,  if you implement this project in your work place, you can get a notification via any social media to get an update regarding any change in your files.
+
+
+
+# Contact Me
+
+Email: haratiank2@gmail.com
+
+YouTube channel: https://www.youtube.com/channel/UCvf9_53f6n3YjNEA4NxAkJA?view_as=subscriber
+GitHub: https://github.com/Kianoush-h
+LinkedIn: https://www.linkedin.com/in/kianoush-haratiannejadi/
+
+
+
